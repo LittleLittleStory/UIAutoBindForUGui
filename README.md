@@ -5,4 +5,4 @@
 改编自：https://github.com/CatImmortal/ComponentAutoBindTool
 
 
-相比上面的自动绑定，这款更加方便，一键自动生成，更好适用于各种项目。
+不同于一般的结构，请各位根据自身项目框架，自行修改生成代码脚本中的部分代码~
